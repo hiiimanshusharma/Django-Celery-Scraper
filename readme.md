@@ -23,5 +23,5 @@ $ celery -A config worker --beat -l info
 ```
 
 ### Monitoring celery tasks using flower
-- go to localhost:5555
+localhost:5555
 ![Alt text](images/celery-flower.png)
